@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Outfit";
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
   margin: 0;
   background-color: hsl(212, 45%, 89%);
   display: flex;

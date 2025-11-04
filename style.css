@@ -54,8 +54,8 @@ body {
   margin-top: 8px;
 }
 
-@media (min-width: 550px) {
+/* @media (min-width: 550px) {
   .qr-container {
     width: 350px;
   }
-}
+} */
